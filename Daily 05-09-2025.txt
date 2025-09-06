@@ -1,0 +1,7 @@
+05-09-2025
+¿Que se hizo hasta el momento?
+Hasta el momento, no hicimos nada.
+¿Qué se va a a hacer?
+Procederemos a hacer el diagrama de Gantt para poder planificar, visualizar y elaborar de forma más eficiente.
+¿Cómo se va a hacer?
+Utilizaremos ProjectLibre para hacer el diagrama.
