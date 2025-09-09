@@ -1,0 +1,67 @@
+﻿Objetivo de esta encuesta:
+* Detectar fallas en maquinaria
+* Verificar que la producción sea entregada a tiempo
+* Analizar a qué problemas se enfrenta y de qué forma se puede buscar soluciones para mejorar el sistema.
+* Ver de qué forma mejorar la realización de sus tareas.
+
+
+Nombre:
+Apellido:
+Edad:
+
+
+¿Qué tan conforme está con los procesos de la fábrica ?
+
+
+1- Muy conforme
+2- Conforme
+3- Poco conforme 
+4- Para nada conforme
+
+
+¿Mediante qué dispositivo realiza su trabajo?
+1-PC 
+2-laptop
+3-tablet
+4-otro
+
+
+1- Como operario, ¿En qué área de la fábrica se especializa? 
+
+
+2-¿De qué manera recibe las órdenes dentro de la fábrica?
+1. Oralmente
+2. Por escrito
+3. Digitalmente
+
+
+3-¿Qué dificultades se le presentan ejecutando esas órdenes?
+
+
+4-¿Considera que la información que recibe para realizar las tareas es lo suficientemente clara?
+
+
+5- ¿Qué puede decir acerca del tiempo de entrega de piezas entre cada etapa?
+
+
+6-¿Con qué frecuencia suele reportar fallas en la maquinaria?
+
+
+7-¿De qué manera reporta las fallas o incidentes ocurridos en la maquinaria?
+
+
+8-.¿Cómo considera que es el tiempo de respuesta cuando realiza un reporte?
+1. Rápido
+2. Regular
+3. Lento
+
+
+9-¿Cuál es el problema más frecuente que se le presenta siendo operario?
+
+
+
+
+10-¿Cree que cuenta con lo necesario para poder resolver ese problema?
+
+
+11- ¿Qué cree que sería útil implementar para mejorar su rendimiento y agilizar las tareas que debe realizar como operario? Por ejemplo un sistema digital para registrar sus avances( si es que no cuenta con uno), algún método de reporte rápido ante un incidente, historial de tareas hechas, etc.
