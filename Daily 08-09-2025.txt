@@ -1,0 +1,10 @@
+08-09-2025
+¿Que se hizo hasta el momento?
+Hasta el momento lo que hemos hecho fue realizar que tareas teniamos que hacer para que posteriormente ampliemos con subtareas debido a que el docente nos pide un minimo de 40 tareas.
+¿Qué se va a a hacer?
+Vamos a terminar de definir las tareas y sus propias subtareas para poder hacer el diagrama de gantt junto al diagrama de Camino Critico cuyas siglas son CPM de forma incompleta por falta de tiempo. Por otra parte, vamos a empezar con las entrevista que le tenemos que hacer al personal operativo quienes son: operario, supervisor, tencico de mantenimiento y personal de logistica. 
+¿Cómo se va a hacer?
+Para definir las tareas usaremos documento de google.
+El diagrama de gantt lo realizaremos en Project libre.
+Para el diagrama de Camino Critico vamos a utilizar Draw.io
+Y por ultimo haremos las entrevistas en un documento de google.
