@@ -1,7 +1,7 @@
 10/09/2025
 ¿Que se hizo hasta el momento?
-Organizamos todo lo que se va a hacer, incluyendo los subtareas y empezamos con el Diagrama de Gantt, que quedó incompleto.
+Se inició el proceso de elaboración de los planos
 ¿Qué se va a a hacer?
-Completaremos el diagrama de Gantt y haremos el diagrama de CPM.
+Se continuará con el desarrollo, implementando las computadoras, impresoras, etcetera.
 ¿Cómo se va a hacer?
-Para la construcción del diagrama de Gantt se utilizará la herramienta ProjectLibre y para CPM usaremos draw.io
+Se empleará la herramienta digital Draw.io para la creación y edición de diagramas y planos técnicos.

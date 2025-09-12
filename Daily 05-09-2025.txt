@@ -1,7 +1,7 @@
 05-09-2025
 ¿Que se hizo hasta el momento?
-Hasta el momento, no hicimos nada.
+Hasta el momento, no hicimos absolutamente nada.
 ¿Qué se va a a hacer?
-Procederemos a hacer el diagrama de Gantt para poder planificar, visualizar y elaborar de forma más eficiente.
+Vamos a configurar el espacio de esta empresa según los datos.
 ¿Cómo se va a hacer?
-Utilizaremos ProjectLibre para hacer el diagrama.
+Utilizaremos draw.io para hacer el plano, tomaremos dos bloques de medida como un metro.
