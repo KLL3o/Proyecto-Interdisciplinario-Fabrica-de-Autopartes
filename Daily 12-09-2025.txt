@@ -1,0 +1,7 @@
+12/09/2025
+¿Que se hizo hasta el momento?
+Según los informes anteriores habíamos completado el diagrama de Gantt y CPM pero hubo problemas.
+¿Qué se va a a hacer?
+Empezaremos a diseñar los planos de lo que es configuración de espacio.
+¿Cómo se va a hacer?
+Utilizaremos la herramienta Draw.io para diseñar los planos de manera 2D, ya que proporciona todo lo necesario.
