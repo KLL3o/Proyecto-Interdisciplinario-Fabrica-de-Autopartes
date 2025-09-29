@@ -1,0 +1,6 @@
+¿Que se hizo hasta el momento?
+Completamos varios planos de lo que es la configuración de espacio.
+¿Qué se va a a hacer?
+Vamos a hacer un check a los planos ya hechos porque nos dimos cuenta que hubo algunas medidas incorrectas y seguiremos con los faltantes.
+¿Cómo se va a hacer?
+Utilizaremos draw.io para hacer el check y elaborar los planos.
