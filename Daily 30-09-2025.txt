@@ -1,0 +1,7 @@
+30-09-2025
+¿Que se hizo hasta el momento?
+Se está por finalizar la elaboración de los planos de configuración de espacios.
+¿Qué se va a a hacer?
+Se continuará con la elaboración de los planos restantes, incorporando los detalles que aún no han sido definidos. Esto incluye completar la distribución de los espacios faltantes, ajustar proporciones, agregar mobiliario de referencia y verificar que la configuración general cumpla con los criterios establecidos.
+¿Cómo se va a hacer?
+Utilizaremos draw.io para continuar y completar los planos, aprovechando sus herramientas de diagramación para lograr una representación clara y precisa.
