@@ -2,6 +2,6 @@
 ¿Que se hizo hasta el momento?
 Estamos en la etapa final de la elaboración de planos.
 ¿Qué se va a a hacer?
-Hoy se continuará con la elaboración y finalización de los planos, enfocándonos principalmente en el chequeo de detalles técnicos, la incorporación de anotaciones necesarias y la preparación del material para su validación final.
+Hoy se continuará con la elaboración y finalización de los planos, se corregirá algunas como por ejemplo medidas entre computadoras e impresoras para que encaje cuando hagamos todo en 3d que sería minecraft.
 ¿Cómo se va a hacer?
 Se utilizará la herramienta Draw.io, lo que permitirá trabajar de manera colaborativa y mantener una organización clara del contenido.
