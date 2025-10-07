@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" modified="2025-10-07T00:00:03.149Z" etag="-x9G1cTxxJDMMXTZfdCh" version="21.2.8" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" modified="2025-10-07T00:01:31.627Z" etag="rh2GwjRgJOH6mkQYAeHZ" version="21.2.8" type="device">
   <diagram name="Página-1" id="S4p3QsHugkFu3qAZZOBX">
-    <mxGraphModel dx="1990" dy="3007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3185" dy="3710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3960,6 +3960,9 @@
         </mxCell>
         <mxCell id="geR1WyGx0U3-r4js_cop-391" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.phone_1;direction=west;rotation=-270;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="geR1WyGx0U3-r4js_cop-393">
           <mxGeometry x="201" y="-124" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="geR1WyGx0U3-r4js_cop-394" value="18m" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;rotation=-270;" vertex="1" parent="1">
+          <mxGeometry x="4382.5" y="-617.5" width="1445" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
