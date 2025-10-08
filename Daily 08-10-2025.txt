@@ -1,0 +1,7 @@
+01-10-2025
+¿Que se hizo hasta el momento?
+Se está por finalizar la elaboración de los planos.
+¿Qué se va a a hacer?
+Vamos a juntar todos los planos en un mismo draw y pondremos lo que son las cámaras y puertas.
+¿Cómo se va a hacer?
+Utilizaremos draw.io para juntar los planos que estén subidos al github.
