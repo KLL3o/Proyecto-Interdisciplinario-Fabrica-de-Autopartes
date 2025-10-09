@@ -2,6 +2,7 @@
 ¿Que se hizo hasta el momento?
 Se está por finalizar la elaboración de los planos.
 ¿Qué se va a a hacer?
-Vamos a juntar todos los planos en un mismo draw y pondremos lo que son las cámaras y puertas.
+Lo que realizaremos en el dia de la fecha es terminar los planos y juntarlos todos, quedaria poner las puertas 
+y camaras de seguridad correspondientes en la clase que viene. Aparte de esto empezaremos con el diagrama de entidad relacion.
 ¿Cómo se va a hacer?
-Utilizaremos draw.io para juntar los planos que estén subidos al github.
+Utilizaremos draw.io para juntar los planos que esten subidos al github y hacer el diagrama DER.
