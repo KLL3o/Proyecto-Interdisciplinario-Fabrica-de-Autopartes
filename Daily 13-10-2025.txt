@@ -1,0 +1,7 @@
+13-10-2025
+¿Que se hizo hasta el momento?
+En proceso de elaboración del diagrama de gantt y los planos de los habitaciones.
+¿Qué se va a a hacer?
+Juntaremos todos los planos hechos por cada integrante del proyecto y haremos correcciones que veamos necesarios durante el proceso.
+¿Cómo se va a hacer?
+Tendremos el github de un lado para poder descargar e copiar los habitaciones hechos y un draw.io en blaco para juntar los planos. 
