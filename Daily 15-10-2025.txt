@@ -1,0 +1,7 @@
+15-10-2025
+¿Que se hizo hasta el momento?
+Se termino con los planos en 2D e hicimos una guia en sweet home de como vamos a distribuir las habitaciones.
+¿Qué se va a a hacer?
+Lo que vamos a hacer es crear un servidor y pasar los planos de 2D a 3D.
+¿Cómo se va a hacer?
+Para realizar esto necesitamos la ayuda de la pagina aternos.me para crear el servidor y tambien instalar tlaucher asi realizamos los planos en 3D.
