@@ -1,0 +1,7 @@
+17-10-2025
+¿Que se hizo hasta el momento?
+Finalizamos la elaboración de los planos 2D y gran parte del diagrama de GANTT y DER hecho.
+¿Qué se va a a hacer?
+Vamos a elaborar el diagrama DFD y el plano en 3D.
+¿Cómo se va a hacer?
+Para el diagrama DFD utilizaremos la aplicación Draw.io que facilita la creación de diagramas técnicos de manera intuitiva y colaborativa y para los planos 3D planeamos utilizar Minecraft con Tlauncher ya que ofrece una versión gratuita y detallada del original. 
