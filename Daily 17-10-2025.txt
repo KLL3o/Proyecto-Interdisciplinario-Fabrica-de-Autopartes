@@ -1,0 +1,7 @@
+17-10-2025
+¿Que se hizo hasta el momento?
+Finalizamos los planos en 2D.
+¿Qué se va a a hacer?
+Haremos la arquitectura de la red y el plano en formato 3D.
+¿Cómo se va a hacer?
+Para el diseño de la arquitectura de red se utilizará Packet Tracer, mientras que el plano en formato 3D será representado mediante Minecraft utilizando TLauncher.
