@@ -1,0 +1,7 @@
+22-10-2025
+¿Que se hizo hasta el momento?
+Finalizamos los planos en 2D y estamos en proceso del 3D.
+¿Qué se va a a hacer?
+Continuaremos con la aquitectura de red y el plano en formato 3D.
+¿Cómo se va a hacer?
+Para el plano en formato 3D se utilizara minecraft con Tlauncher, tomando como medidas dos bloques un metro. Para la arquitectura de red se usa Putty.
