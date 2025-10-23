@@ -1,0 +1,7 @@
+22-10-2025
+¿Que se hizo hasta el momento?
+Finalizamos los planos en 2D y estamos en proceso del 3D.
+¿Qué se va a a hacer?
+Hemos detectado un par de inconveniencias en el plano 2D,asi que vamos a hacer en el dia de hoy es modificar algunas habitaciones en el plano 2D porque hay algunas que no nos convencieron o no nos convenían por la distribución hecha en el 3D y por ese motivo decidimos hacer ese cambio. También haremos parte de la base de datos.
+¿Cómo se va a hacer?
+Para la correción del plano 2D se utilizará la aplicación Draw.io. Lo que es la base de datos usaremos Visual Studio code.
