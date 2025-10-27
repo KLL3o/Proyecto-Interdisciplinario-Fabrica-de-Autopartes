@@ -1,0 +1,14 @@
+27-10-2025
+¿Que se hizo hasta el momento?
+Se completó la fase de diseño en plano 2D, incluyendo distribución de puestos, cableado lógico y ubicación de dispositivos.
+Se inició la transición al entorno 3D utilizando Minecraft (TLauncher) con mods orientados a simulación de infraestructura tecnológica.
+¿Qué se va a a hacer?
+Implementación de cable canales en el modelo 3D, respetando criterios de orden, accesibilidad y trazabilidad de cableado.
+Corrección de elementos estructurales o de diseño en el entorno 3D según se detecten inconsistencias durante la implementación.
+Continuación del diseño de la arquitectura de red en Packet Tracer, incluyendo:
+-Asignación de direcciones IP.
+-Configuración de switches y routers.
+-Simulación de tráfico y pruebas de conectividad.
+Si se finaliza el entorno 3D, se procederá con la elaboración de diagramas técnicos en Draw.io
+¿Cómo se hará?
+Minecraft, Tlauncher para el plano 3D, Packet tracer para la arquitectura red y Draw.io para los diagramas.
