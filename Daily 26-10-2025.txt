@@ -1,4 +1,4 @@
-22-10-2025
+27-10-2025
 ¿Que se hizo hasta el momento?
 Tenemos hecho lo siguiente: 
 - Habitaciones en 2D.
@@ -11,4 +11,5 @@ Tenemos hecho lo siguiente:
 ¿Qué se va a a hacer?
 Se va a seguir con el modelo en 3D ya que nos olvidamos de colocar unas habitaciones, por otro lado seguiremos pasando a limpio el plano en 2D.
 ¿Cómo se va a hacer?
+
 Para continuar con el modelo 3D usaremos Minecraft Java mientras que para seguir con las habitaciones en 2D usaremos Draw.io.
