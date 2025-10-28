@@ -1,0 +1,14 @@
+28-10-2025
+¿Que se hizo hasta el momento?
+Tenemos hecho lo siguiente: 
+- Habitaciones en 2D.
+- Distribucion de habitaciones para el 3D.
+- Base de datos.
+- Store procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+¿Qué se va a a hacer?
+Se va a continuar con los cable canales del modelo 3D.
+¿Cómo se va a hacer?
+Para seguir con el modelo 3D utilizaremos Minecraft, Tlauncher.
