@@ -1,0 +1,16 @@
+28-10-2025
+¿Que se hizo hasta el momento?
+Tenemos hecho lo siguiente: 
+- Habitaciones en 2D.
+- Distribucion de habitaciones para el 3D.
+- Base de datos.
+- Store procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+¿Qué se va a a hacer?
+Se va a finalizar la elaboración del modelo 3D.
+Trataremos de terminar con la arquitectura de red y empezar con los diagramas.
+¿Cómo se va a hacer?
+Para seguir con el modelo 3D utilizaremos Minecraft, Tlauncher.
+La arquitectura de red se usará Packet Tracer y Draw.io para los diagramas.
