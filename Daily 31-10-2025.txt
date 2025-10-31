@@ -1,0 +1,12 @@
+31-10-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama Entidad Relacion.
+- Triggers.
+- Store Procedure.
+- Diagrama de Flujo de Datos.
+- Base de Datos.
+¿Qué se va a a hacer?
+Lo que tenemos planeado es terminar con la arquitectura de red y finalizar con la encuesta a operarios y supervisores.
+¿Cómo se va a hacer?
+Para hacer la arquitectura de red lo que vamos a utilizar es Cisco Packet Tracer por las herramientas que brinda, para hacer las encuestas vamos a usar un documento de texto.
