@@ -1,0 +1,12 @@
+31-10-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama Entidad Relacion.
+- Triggers.
+- Store Procedure.
+- Diagrama de Flujo de Datos.
+- Base de Datos.
+¿Qué se va a a hacer?
+Lo que tenemos planeado es terminar con la arquitectura de red y por lo menos comenzar con la pagina web.
+¿Cómo se va a hacer?
+Para hacer la arquitectura de red lo que vamos a utilizar es Cisco Packet Tracer por las herramientas que brinda mientras que para la pagina web la vamos a hacer con Visual Studio y una extension para poder runnear llamada Live Server.
