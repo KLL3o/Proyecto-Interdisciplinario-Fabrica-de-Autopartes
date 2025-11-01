@@ -13,19 +13,6 @@ Edad:
 ¿Qué tan conforme está con los procesos de la fábrica ?
 
 
-1- Muy conforme
-2- Conforme
-3- Poco conforme 
-4- Para nada conforme
-
-
-¿Mediante qué dispositivo realiza su trabajo?
-1-PC 
-2-laptop
-3-tablet
-4-otro
-
-
 1- Como operario, ¿En qué área de la fábrica se especializa? 
 
 

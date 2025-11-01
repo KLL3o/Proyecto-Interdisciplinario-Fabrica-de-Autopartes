@@ -7,78 +7,82 @@ Apellido:
 Edad:
 
 
-¿Qué tan conforme está con los procesos de la fábrica ?
+1-¿Qué tan conforme está con los procesos de la fábrica ?
 
 
-1- Muy conforme
-2- Conforme
-3- Poco conforme 
-4- Para nada conforme
+a. Muy conforme
+b. Conforme.
+c. Poco conforme. 
+d. Para nada conforme.
 
 
-¿Mediante qué dispositivo realiza su trabajo?
-1-PC 
-2-laptop
-3-tablet
-4-otro
+2-¿Mediante qué dispositivo realiza su trabajo?
+a. PC. 
+b. Laptop.
+c. Tablet.
+d. Otro.
 
 
 1-¿Qué área o áreas de la fábrica supervisa?
 
 
 2-¿Cómo gestiona el avance de la producción en la fábrica?
-1. En papel 
-2. Exel
-3. Documento
+1. En papel. 
+2. Ecxel.
+3. Documento.
 4. Algún programa utilizado específicamente para controlar la producción.
 
 
-2- ¿Con qué frecuencia registra la producción de autopartes?
-1. cada día
-2. Cada semana
-3. Cada mes
+3- ¿Con qué frecuencia registra la producción de autopartes?
+1. Cada día.
+2. Cada semana.
+3. Cada mes.
 
 
-3-¿Cómo son las condiciones en las que se encuentran las máquinas actualmente?
-1. En muy buenas condiciones
-2. En buenas condiciones 
-3. En condiciones 
-4. En malas condiciones 
-5. En muy malas condiciones 
+4-¿Cómo son las condiciones en las que se encuentran las máquinas actualmente?
+1. En muy buenas condiciones.
+2. En buenas condiciones. 
+3. En condiciones. 
+4. En malas condiciones. 
+5. En muy malas condiciones. 
 
 
-4-¿Con qué frecuencia actualiza los datos de la producción?
-1. cada día
-2. Cada semana
-3. Cada mes
+5-¿Con qué frecuencia actualiza los datos de la producción?
+1. Cada día.
+2. Cada semana.
+3. Cada mes.
 
 
-5-¿Considera que la información que recibe de las distintas áreas de la fábrica es lo suficientemente clara?
-1. si
-2. No
+6-¿Considera que la información que recibe de las distintas áreas de la fábrica es lo suficientemente clara?
+1. Si.
+2. No.
 
 
-6-¿Está conforme con la cantidad de autopartes producidas en un día?
-1. Si
-2. No
+7-¿Está conforme con la cantidad de autopartes producidas en un día?
+1. Si.
+2. No.
 
 
-7-¿Cómo considera que es la coordinación entre las distintas áreas de la fábrica?
-1. Muy buena coordinación 
-2. Buena coordinación 
-3. No es mala, pero falta más coordinación
-4. Mala coordinación 
+8-¿Cómo considera que es la coordinación entre las distintas áreas de la fábrica?
+1. Muy buena coordinación. 
+2. Buena coordinación. 
+3. No es mala, pero falta más coordinación.
+4. Mala coordinación. 
 
 
-8-¿Cree que el establecimiento se encuentra en buenas condiciones?
-1. si
-2. No
-3. Si, pero podría mejorar
+9-¿Cree que el establecimiento se encuentra en buenas condiciones?
+1. Si.
+2. No.
+3. Si, pero podría mejorar.
 
 
-9¿Que considera que es una prioridad mejorar en la fábrica?
-1. la seguridad del personal
-2. La agilidad
-3. La coordinación entre sectores 
-4. Las máquinas
-5. Las condiciones del establecimiento
+10-¿Que considera que es una prioridad mejorar en la fábrica?
+1. La seguridad del personal.
+2. La agilidad.
+3. La coordinación entre sectores. 
+4. Las máquinas.
+5. Las condiciones del establecimiento.
+6. Otro.
+
+11-¿Cual es el mes en dónde más se factura?
+
