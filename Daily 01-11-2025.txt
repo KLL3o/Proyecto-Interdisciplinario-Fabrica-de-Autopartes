@@ -1,0 +1,12 @@
+31-10-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama Entidad Relacion.
+- Triggers.
+- Store Procedure.
+- Diagrama de Flujo de Datos.
+- Base de Datos.
+¿Qué se va a a hacer?
+Hoy se va a terminar con los planos 2D y 3D que faltaban cosas minimas.
+¿Cómo se va a hacer?
+Para terminar con el 2D tenemos que usar draw.io mientras que para el 3D minecraft tlaucher.
