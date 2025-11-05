@@ -1,0 +1,145 @@
+﻿Objetivo de esta encuesta:
+Conocer a profundidad las distintas necesidades, dificultades y responsabilidades de los supervisores en la fábrica de autopartes.
+
+
+
+
+Nombre:
+Apellido:
+Edad:
+
+
+
+
+Datos generales:
+
+
+1- Su antigüedad en la empresa:
+1. Menos de un  año
+2. Entre 1 y 2 años
+3. Entre 3 y 5 años
+4. Más de 5 años
+
+
+2- Horario de trabajo:
+1. Mañana
+2. Tarde
+3. Noche
+
+
+Organización del trabajo:
+
+
+1- ¿Cuántos operarios tiene aproximadamente a su cargo?
+1. Menos de 20
+2. De 20 a 40
+3. De 40 60
+
+
+2- ¿Cómo controla que su personal esté cumpliendo correctamente con las tareas?
+1. Reportes semanales o diarios por escrito o digitales
+2. Reuniones de control
+3. Mediante otro método
+
+
+3- ¿Qué dificultades se le presenta con más frecuencia en la supervisión diaria?
+
+
+4- ¿Cómo calificaría la coordinación entre su área y las demás?
+1. Excelente
+2. Muy buena
+3. Aceptable
+4. Regular
+5. Mala
+
+
+
+
+
+
+
+
+
+
+Control:
+
+
+1- ¿Mediante qué dispositivo realiza su trabajo?
+1.  PC. 
+2.  Laptop.
+3.  Tablet.
+4.  Otro
+
+
+2- ¿Con qué frecuencia registra o actualiza los datos de la producción?
+1. Diariamente
+2. Semanalmente
+3. mensualmente
+
+
+3-¿De qué manera registra y controla la producción
+1. En papel
+2. En un Excel
+3. Algun programa especifico para el control de producción
+4. Otro
+4- ¿Qué tipo de datos controla con más frecuencia o atención?
+1. Total producido
+2. Piezas defectuosas
+3. Cumplimiento de tareas
+4. Otro
+
+
+Maquinaria:
+
+
+1- En general, ¿Cómo califica el estado de las máquinas en su área?
+1. Muy buenas condiciones
+2. Buenas
+3. Regulares
+4. Malas condiciones
+
+
+2- ¿Con qué frecuencia se presentan fallas o interrupciones en el funcionamiento de las máquinas?
+1. Frecuentemente
+2. Ocasionalmente
+3. Nunca
+
+
+3- ¿Considera que el mantenimiento de las máquinas para prevenir accidentes se realiza con frecuencia?
+1. Si
+2. No
+
+
+4- ¿Qué mejoras cree que podrían implementarse en el área de mantenimiento y maquinaria para mejorar la producción?
+
+
+
+
+
+
+Comunicaciones y mejoras:
+
+
+1- ¿Qué tan efectiva cree que es la comunicación entre operarios y supervisores?
+1. Muy buena
+2. Aceptable
+3. Poco fluida
+4. Muy mala
+
+
+2- ¿Qué tan conforme está con la cantidad de autopartes producidas en un día?
+1. Muy conforme
+2. Conforme
+3. Poco conforme
+4. Para nada conforme
+
+
+3-  ¿En qué mes se registra mayoer cantidad de producción?
+
+
+4- ¿Que considera que debería ser una prioridad para mejorar dentro de la fábrica?
+1. Seguridad del personal de la fábrica
+2. Velocidad de los procesos
+3. Coordinación entre sectores
+4. Mantenimiento de las máquinas
+5. Otro:
