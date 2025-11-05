@@ -1,0 +1,124 @@
+﻿Objetivo de esta encuesta:
+* Detectar fallas en maquinaria
+* Verificar que la producción sea entregada a tiempo
+* Analizar a qué problemas se enfrenta y de qué forma se puede buscar soluciones para mejorar el sistema.
+* Ver de qué forma mejorar la realización de sus tareas.
+
+
+
+
+Nombre:
+Apellido:
+Edad:
+
+
+Datos generales:
+
+
+1- Su antigüedad en la empresa:
+1. Menos de un  año
+2. Entre 1 y 2 años
+3. Entre 3 y 5 años
+4. Más de 5 años
+
+
+2- Horario de trabajo:
+1. Mañana
+2. Tarde
+3. Noche
+
+
+3- Cantidad de personas que trabajan en su sector:
+1. Menos de 5
+2. Entre 5 y 10
+3. Más de 10
+
+
+
+
+Procesos y organización del trabajo:
+
+
+1-¿Qué tan conforme está con los procesos de la fábrica ?
+
+
+
+
+2- Como operario, ¿En qué área de la fábrica se especializa? 
+
+
+
+
+3-¿De qué manera recibe las órdenes dentro de la fábrica?
+1. Oralmente
+2. Por escrito
+3. Digitalmente
+
+
+
+
+4-¿Qué dificultades se le presentan ejecutando esas órdenes?
+
+
+
+
+5-¿Considera que la información que recibe para realizar las tareas es lo suficientemente clara?
+1. Siempre
+2. Podria ser mas clara
+3. Nunca
+
+
+6- ¿Qué puede decir acerca de la coordinación entre su área y las otras?
+1. Es muy buena
+2. Es aceptable
+3. Es mala
+
+
+
+
+7- ¿Qué puede decir acerca del tiempo de entrega de piezas entre cada etapa?
+
+
+Maquinaria y mantenimiento:
+
+
+1- ¿Con qué frecuencia suele reportar fallas en la maquinaria?
+1. Diariamente
+2. Semanalmente
+3. Mensualmente
+4. Nunca
+
+
+2- .¿Cómo considera que es el tiempo de respuesta cuando realiza un reporte?
+1.  Rápido
+2.  Regular
+3.  Lento
+
+
+
+
+3-¿De qué manera reporta las fallas o incidentes ocurridos en la maquinaria?
+
+
+4-¿Cuál es el problema más frecuente que se le presenta siendo operario?
+1. Mecánicas
+2. Eléctricas
+3. Otras
+
+
+5-¿Cree que cuenta con lo necesario para poder resolver ese problema?
+1. Si
+2. Parcialmente si
+3. No
+
+
+6-¿Qué cree que sería útil implementar para mejorar su rendimiento y agilizar las tareas que debe realizar como operario? Por ejemplo un sistema digital para registrar sus avances( si es que no cuenta con uno), algún método de reporte rápido ante un incidente, historial de tareas hechas, etc.
+
+
+7- ¿Qué cree que sería útil implementar para mejorar su rendimiento y agilizar las tareas que debe realizar como operario? Por ejemplo un sistema digital para registrar sus avances( si es que no cuenta con uno), algún método de reporte rápido ante un incidente, historial de tareas hechas, etc.
+
+
+Sugerencias:
+
+
+1- ¿Qué sugerencias o ideas propone para mejorar los procesos y el ambiente de su área de trabajo?
