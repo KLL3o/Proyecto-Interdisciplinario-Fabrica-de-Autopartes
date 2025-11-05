@@ -1,0 +1,97 @@
+﻿Objetivo de la encuesta: 
+
+
+Reunir información sobre los procesos y necesidades del área de logística.
+
+
+Nombre:
+Apellido:
+Edad:
+
+
+Datos generales:
+
+
+1- Su antigüedad en la empresa:
+1. Menos de un  año
+2. Entre 1 y 2 años
+3. Entre 3 y 5 años
+4. Más de 5 años
+
+
+2- Horario de trabajo:
+1. Mañana
+2. Tarde
+3. Noche
+
+
+3- Cantidad de personas que trabajan en su sector:
+1. Menos de 5
+2. Entre 5 y 10
+3. Más de 10
+
+
+Procesos en la fábrica:
+
+
+1- ¿Cuáles son las tareas principales de las que se encarga en el área de logística?
+
+
+2- ¿Qué método utilizan actualmente para registrar la entrada y salida de materiales y autopartes? 
+1. En papel
+2. En planillas digitales
+3. En algún programa específicamente diseñado para eso
+4. Con otro método (especificar)
+
+
+3- ¿Con qué frecuencia se reportan errores en los registros del inventario?
+1. Muy seguido
+2. Ocasionalmente
+3. Muy pocas veces
+4. Nunca
+
+
+4- ¿Cuáles son las principales causas de esos errores?
+
+
+5- ¿Con qué frecuencia se actualizan los registros en el inventario?
+1. Al instante
+2. Una vez al dia
+3. Una vez a la semana
+4. Una vez al mes
+
+
+Comunicación en la fábrica: 
+
+
+1- ¿Cómo se comunican actualmente entre las diferentes áreas de la fábrica?
+ 
+2- ¿Ocurre algún tipo de problema o demora con la comunicación entre el personal de logística y las otras áreas?
+
+
+5- ¿Cree que la comunicación entre los sectores de la fábrica es eficiente?
+1. Si, es eficiente
+2. Parcialmente eficiente
+3. No, no es eficiente
+
+
+3- Si no es así, ¿Cómo cree que se podría mejorar el área de la comunicación en la fábrica?
+
+
+Tecnología en la fábrica:
+
+
+1- ¿Cuenta con alguna herramienta digital para realizar su trabajo diario?
+1. Si (especifique cuál)
+2. No 
+
+
+2- ¿Considera que sus herramientas de trabajo son suficientes como para poder realizar sus tareas de manera eficiente?
+1. Si
+2. No
+
+
+Sugerencias:
+
+
+1- ¿Qué aspectos del área de logística cree que se podrían mejorar?
