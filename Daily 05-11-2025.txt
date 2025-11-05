@@ -1,0 +1,14 @@
+05-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama Entidad Relacion.
+- Triggers.
+- Store Procedure.
+- Diagrama de Flujo de Datos.
+- Base de Datos.
+- Diagrama UML
+
+¿Qué se va a a hacer?
+Hoy tenemos planeado terminar con el subneteo VLSM, realizar el diagrama de secuencia y completar las encuestas tanto como a operarios como a supervisores que faltaban preguntas.
+¿Cómo se va a hacer?
+Para hacer el subneteo VLSM necesitamos una hoja y una lapicera, para el diagrama de secuencia vamos a usar draw.io y para las encuentas un documento de google.
