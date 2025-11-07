@@ -1,6 +1,8 @@
 03-11-2025
 ¿Que se hizo hasta el momento?
 Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
 - Habitaciones en 2D.
 - Distribucion de habitaciones para el 3D.
 - Base de datos.
@@ -14,4 +16,5 @@ Tenemos planeado finalizar con la elaboración de la arquitectura de red hoy, em
 ¿Cómo se va a hacer?
 
 Para hacer la arquitectura de red lo que vamos a utilizar es Cisco Packet Tracer por las herramientas que brinda, diagrama UML, caso de uso y plano 2D usaremos draw.io, ya que nos ofrece una interfaz fácil de usar, plantillas y la posibilidad de trabajar tanto en línea como sin conexión a través de su aplicación de escritorio.
+
 
