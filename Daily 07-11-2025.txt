@@ -1,15 +1,21 @@
 07-11-2025
 ¿Que se hizo hasta el momento?
 Hasta el momento tenemos realizado lo siguiente:
-- Diagrama Entidad Relacion.
+- Diagrama DER.
+- Diagrama UML.
+- Habitaciones en 2D.
+- Modelo 3D.
+- Base de datos.
+- Store procedure.
 - Triggers.
-- Store Procedure.
-- Diagrama de Flujo de Datos.
-- Base de Datos.
-- Diagrama UML
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
 ¿Qué se va a a hacer?
 Hoy tenemos planeado terminar con la arquitectura de red, realizar todos los diagramas faltantes( caso de uso, secuencia, burndown) y actualizar gantt.
 Completar las correcciones en el Plano 2D y agregar las ips subneteadas en la arquitectura de red a las 984 maquinas, telefonos y 200 impresoras.
 ¿Cómo se va a hacer?
 Para la arquitectura de red se utilizará Cisco Packet Tracer, ya que permite simular el funcionamiento de los dispositivos de red, configurar routers y switches.
 Por otro lado, para la elaboración de los diagramas y el plano en 2D se empleará la herramienta draw.io, que permite diseñar de forma clara y ordenada.
+
