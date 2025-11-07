@@ -1,15 +1,20 @@
 05-11-2025
 ¿Que se hizo hasta el momento?
 Hasta el momento tenemos realizado lo siguiente:
-- Diagrama Entidad Relacion.
+- Diagrama DER.
+- Diagrama UML.
+- Habitaciones en 2D.
+- Modelo 3D.
+- Base de datos.
+- Store procedure.
 - Triggers.
-- Store Procedure.
-- Diagrama de Flujo de Datos.
-- Base de Datos.
-- Diagrama UML
-
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
 ¿Qué se va a a hacer?
 Hoy tenemos planeado terminar con el subneteo VLSM, realizar el diagrama de caso uso y completar las encuestas tanto como a operarios como a supervisores que faltaban preguntas.
 ¿Cómo se va a hacer?
 Para hacer el subneteo VLSM necesitamos una hoja y una lapicera, para el diagrama caso de uso vamos a usar draw.io y para las encuentas un documento de google.
+
 
