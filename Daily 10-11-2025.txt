@@ -3,6 +3,7 @@
 Hasta el momento tenemos realizado lo siguiente:
 - Diagrama DER.
 - Diagrama UML.
+- Diagrama caso de uso.
 - Habitaciones en 2D.
 - Modelo 3D.
 - Base de datos.
@@ -18,3 +19,4 @@ También se hará correcciones en el diagrama UML y se continuará con los diagr
 ¿Cómo se va a hacer?
 Para la arquitectura de red se utilizará Cisco Packet Tracer.
 Por otro lado, para la elaboración de los diagramas y el plano en 2D se empleará la herramienta draw.io, que permite diseñar de forma clara y ordenada.
+
