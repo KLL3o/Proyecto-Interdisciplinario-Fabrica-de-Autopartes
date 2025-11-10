@@ -1,0 +1,20 @@
+10-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Habitaciones en 2D.
+- Modelo 3D.
+- Base de datos.
+- Store procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+¿Qué se va a a hacer?
+Se va a colocar las ip subneteadas en las clases anteriores en las computadoras de la arquitectura de red.
+También se hará correcciones en el diagrama UML y se continuará con los diagramas faltantes.
+¿Cómo se va a hacer?
+Para la arquitectura de red se utilizará Cisco Packet Tracer.
+Por otro lado, para la elaboración de los diagramas y el plano en 2D se empleará la herramienta draw.io, que permite diseñar de forma clara y ordenada.
