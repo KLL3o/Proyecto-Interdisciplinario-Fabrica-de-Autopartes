@@ -1,0 +1,23 @@
+11-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Habitaciones en 2D.
+- Modelo 3D.
+- Base de datos.
+- Store procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+¿Qué se va a a hacer?
+Se harán nuevas correcciones en el plano 2D y modelo 3D, ya que nos dimos cuenta de unos erorres de cálculo.
+Completaremos lo que es la extensión del diagrama caso de uso.
+Se empezará la elaboración de lo que es la web.
+¿Cómo se va a hacer?
+Para el plano 2D, se hará en draw.io y el modelo 3D en minecraft, Tlauncher.
+Extensión del diagrama caso de uso se hará en un documento de texto.
+Elaboración de la web se utilizará Visual Studio Code y live share para hacerlo con los otros integrantes del grupo.
