@@ -1,0 +1,21 @@
+12-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Extensión de caso de uso.
+- Habitaciones en 2D.
+- Modelo 3D.
+- Base de datos.
+- Store procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+¿Qué se va a a hacer?
+Se continuará lo que es la colocación de la ip en la arquitectura de red, diagrama de gantt, y se trataremos de completar los diagramas restastes.
+¿Cómo se va a hacer?
+Para la arquitectura de red, seguiremos usando Cisco Packet Tracer. Para el diagrama de gantt de usará ProjectLibre y para el resto de diagramas la aplicación Draw.io.
+
