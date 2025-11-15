@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ford | Pancho Autopartes</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background-color: #f2f4f7;
+      color: #333;
+    }
+    header {
+      background-color: #1f3b57;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .seccion {
+      padding: 60px 100px;
+      text-align: center;
+    }
+    h2 {
+      color: #1f3b57;
+      margin-bottom: 30px;
+    }
+    .galeria-marcas {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 25px;
+      justify-items: center;
+    }
+    .tarjeta-marca {
+      background-color: white;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 280px;
+      transition: transform 0.3s ease;
+    }
+    .tarjeta-marca:hover {
+      transform: translateY(-5px);
+    }
+    .tarjeta-marca img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+    .tarjeta-marca h3 {
+      margin: 10px 0;
+      color: #1f3b57;
+    }
+    .tarjeta-marca p {
+      text-align: left;
+      font-size: 14px;
+      margin: 5px 0;
+    }
+    footer {
+      background-color: #1f3b57;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pancho Autopartes</h1>
+  <nav>
+    <a href="index.html">Inicio</a>
+    <a href="index.html#nosotros">Nosotros</a>
+    <a href="index.html#servicios">Servicios</a>
+    <a href="index.html#contacto">Contacto</a>
+  </nav>
+</header>
+
+<section class="seccion" id="ford">
+  <h2>Autopartes Ford</h2>
+  <p>Encuentra las mejores autopartes originales y alternativas para vehículos Ford. Calidad, durabilidad y garantía en cada producto.</p>
+
+  <div class="galeria-marcas">
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Spark_plug_1.jpg" alt="Bujía Ford Fiesta">
+      <div style="padding: 15px;">
+        <h3>Bujía Motorcraft - Fiesta / Focus</h3>
+        <p>Electrodo de platino de alta durabilidad, mejora la ignición y reduce el consumo de combustible.</p>
+        <p><strong>Modelos compatibles:</strong> Fiesta 2008-2017, Focus 2012-2018</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Automotive_air_filter.jpg" alt="Filtro de aire Ford Ranger">
+      <div style="padding: 15px;">
+        <h3>Filtro de aire Motorcraft - Ranger</h3>
+        <p>Protege el motor de polvo y partículas, mejora la combustión y el rendimiento del motor.</p>
+        <p><strong>Modelos compatibles:</strong> Ranger 2012-2022</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Oil_filter.jpg" alt="Filtro de aceite Ford Focus">
+      <div style="padding: 15px;">
+        <h3>Filtro de aceite Motorcraft - Focus</h3>
+        <p>Alta capacidad de filtración y material resistente, compatible con aceites sintéticos y minerales.</p>
+        <p><strong>Modelos compatibles:</strong> Focus 2011-2018</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Brake_pads_on_white_background.jpg" alt="Pastillas de freno Ford EcoSport">
+      <div style="padding: 15px;">
+        <h3>Pastillas de freno Brembo - EcoSport</h3>
+        <p>Componente cerámico para frenado seguro, bajo ruido y excelente respuesta de frenado.</p>
+        <p><strong>Modelos compatibles:</strong> EcoSport 2013-2021</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Car_battery.jpg" alt="Batería Ford Ranger">
+      <div style="padding: 15px;">
+        <h3>Batería 12V - Ranger / Fiesta</h3>
+        <p>Libre de mantenimiento, alta capacidad de arranque en frío y resistente a vibraciones.</p>
+        <p><strong>Modelos compatibles:</strong> Ranger 2010-2020, Fiesta 2007-2017</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Spark_plug_1.jpg" alt="Bujía Ford Kuga">
+      <div style="padding: 15px;">
+        <h3>Bujía Motorcraft - Kuga / Escape</h3>
+        <p>Electrodo de iridio de larga duración, mejora la ignición y eficiencia del motor.</p>
+        <p><strong>Modelos compatibles:</strong> Kuga 2013-2022, Escape 2013-2020</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Automotive_air_filter.jpg" alt="Filtro de aire Ford Mustang">
+      <div style="padding: 15px;">
+        <h3>Filtro de aire Motorcraft - Mustang</h3>
+        <p>Filtro de alto flujo que protege el motor y mejora la eficiencia de admisión.</p>
+        <p><strong>Modelos compatibles:</strong> Mustang 2015-2023</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Oil_filter.jpg" alt="Filtro de aceite Ford F-150">
+      <div style="padding: 15px;">
+        <h3>Filtro de aceite Motorcraft - F-150</h3>
+        <p>Elemento filtrante premium que garantiza pureza del aceite y protección del motor.</p>
+        <p><strong>Modelos compatibles:</strong> F-150 2010-2022</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Brake_pads_on_white_background.jpg" alt="Pastillas de freno Ford Transit">
+      <div style="padding: 15px;">
+        <h3>Pastillas de freno Brembo - Transit</h3>
+        <p>Componente cerámico, seguridad máxima y bajo nivel de ruido en frenado.</p>
+        <p><strong>Modelos compatibles:</strong> Transit 2014-2022</p>
+      </div>
+    </div>
+
+    <div class="tarjeta-marca">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Car_battery.jpg" alt="Batería Ford Explorer">
+      <div style="padding: 15px;">
+        <h3>Batería 12V - Explorer / Edge</h3>
+        <p>Libre de mantenimiento, alta capacidad de arranque y durabilidad garantizada.</p>
+        <p><strong>Modelos compatibles:</strong> Explorer 2011-2020, Edge 2015-2023</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 Pancho Autopartes | Fábrica y distribución de autopartes en Argentina</p>
+</footer>
+
+</body>
+</html>

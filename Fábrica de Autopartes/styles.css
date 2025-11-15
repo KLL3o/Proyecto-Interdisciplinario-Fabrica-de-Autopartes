@@ -1,0 +1,182 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-color: #f2f4f7;
+  color: #333;
+}
+
+header {
+  background-color: #1f3b57;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.seccion {
+  padding: 60px 100px;
+  text-align: center;
+}
+
+h2 {
+  color: #1f3b57;
+  margin-bottom: 30px;
+}
+
+.galeria-marcas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 25px;
+  justify-items: center;
+}
+
+.tarjeta-marca {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 280px;
+  transition: transform 0.3s ease;
+}
+
+.tarjeta-marca:hover {
+  transform: translateY(-5px);
+}
+
+.tarjeta-marca img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.tarjeta-marca h3 {
+  margin: 10px 0;
+  color: #1f3b57;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #1f3b57;
+  color: white;
+  padding: 10px 20px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #2a547a;
+}
+
+/* Servicios */
+ul {
+  list-style: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+li {
+  background: #fff;
+  margin: 10px 0;
+  padding: 12px;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Contacto */
+.contacto p {
+  margin: 8px 0;
+}
+
+.redes img {
+  width: 40px;
+  margin: 10px;
+  transition: transform 0.3s ease;
+}
+
+.redes img:hover {
+  transform: scale(1.1);
+}
+
+footer {
+  background-color: #1f3b57;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+/* Slider horizontal para galería de marcas */
+.galeria-marcas {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding-bottom: 10px;
+  scroll-snap-type: x mandatory;
+}
+
+.galeria-marcas::-webkit-scrollbar {
+  height: 8px;
+}
+
+.galeria-marcas::-webkit-scrollbar-thumb {
+  background: #1f3b57;
+  border-radius: 4px;
+}
+
+.tarjeta-marca {
+  flex: 0 0 260px; /* ancho fijo para cada tarjeta */
+  scroll-snap-align: start;
+}
+/* Galería de productos FIJA: 5 por fila */
+.galeria-productos {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 columnas */
+  gap: 25px;
+  justify-items: center;
+  margin-top: 30px;
+}
+
+.tarjeta-producto {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 230px;
+  transition: transform 0.3s ease;
+}
+
+.tarjeta-producto:hover {
+  transform: translateY(-5px);
+}
+
+.tarjeta-producto img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+@media (max-width: 900px) {
+  .galeria-productos {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .galeria-productos {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
