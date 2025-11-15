@@ -1,0 +1,20 @@
+12-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Extensión de caso de uso.
+- Habitaciones en 2D.
+- Modelo 3D.
+- Base de datos.
+- Store procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+¿Qué se va a a hacer?
+Hoy se continuará con la elaboración de la página WEB.
+¿Cómo se va a hacer?
+Se utilizará Visual studio code para poner a prueba el código. Bootstrap para tener una guía del diseño de la página.
