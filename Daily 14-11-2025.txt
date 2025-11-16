@@ -1,4 +1,4 @@
-12-11-2025
+14-11-2025
 ¿Que se hizo hasta el momento?
 Hasta el momento tenemos realizado lo siguiente:
 - Diagrama DER.
@@ -18,3 +18,4 @@ Hasta el momento tenemos realizado lo siguiente:
 Hoy se continuará con la elaboración de la página WEB.
 ¿Cómo se va a hacer?
 Se utilizará Visual studio code para poner a prueba el código. Bootstrap para tener una guía del diseño de la página.
+
