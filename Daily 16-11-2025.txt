@@ -1,0 +1,20 @@
+16-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Extensión de caso de uso.
+- Habitaciones en 2D.
+- Modelo 3D.
+- Base de datos.
+- Store procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+¿Qué se va a a hacer?
+Se tratará de finalizar la página para la presentación del proyecto que es el lunes.
+¿Cómo se va a hacer?
+Se utilizará Visual studio code para poner a prueba el código y mejorar la parte visual.
