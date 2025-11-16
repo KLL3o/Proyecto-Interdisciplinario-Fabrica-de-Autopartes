@@ -1,88 +1,109 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Chevrolet | Pancho Autopartes</title>
-  <style>
-    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background-color: #f2f4f7; color: #333; }
-    header { background-color: #1f3b57; color: white; padding: 20px 0; text-align: center; }
-    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
-    nav a:hover { text-decoration: underline; }
-    .seccion { padding: 60px 100px; text-align: center; }
-    h2 { color: #1f3b57; margin-bottom: 30px; }
-    .galeria-marcas { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 25px; justify-items: center; }
-    .tarjeta-marca { background-color: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); width: 100%; max-width: 280px; transition: transform 0.3s ease; }
-    .tarjeta-marca:hover { transform: translateY(-5px); }
-    .tarjeta-marca img { width: 100%; height: 180px; object-fit: cover; }
-    .tarjeta-marca h3 { margin: 10px 0; color: #1f3b57; }
-    .tarjeta-marca p { text-align: left; font-size: 14px; margin: 5px 0; }
-    footer { background-color: #1f3b57; color: white; text-align: center; padding: 20px; margin-top: 40px; }
-  </style>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
 
-<header>
-  <h1>Pancho Autopartes</h1>
-  <nav>
-    <a href="index.html">Inicio</a>
-    <a href="index.html#nosotros">Nosotros</a>
-    <a href="index.html#servicios">Servicios</a>
-    <a href="index.html#contacto">Contacto</a>
-  </nav>
-</header>
+  <header class="top-header">
+    <div class="header-container">
+      <div class="logo">
+        <a href="e.html">Pancho Autopartes</a>
+      </div>
+      <div class="search-box">
+        <input type="text" placeholder="Buscar repuesto..." />
+      </div>
+      <div class="header-contact">
+        <p><strong>Contacto:</strong> +54 11 4455 3322</p>
+      </div>
+    </div>
 
-<section class="seccion" id="chevrolet">
-  <h2>Autopartes Chevrolet</h2>
-  <p>Encuentra autopartes originales y alternativas para vehículos Chevrolet, con garantía y calidad aseguradas.</p>
+    <nav class="nav-categorias">
+      <ul>
+        <li><a href="fiat.html">FIAT</a></li>
+        <li><a href="ford.html">FORD</a></li>
+        <li><a href="chevrolet.html">CHEVROLET</a></li>
+        <li><a href="peugeot.html">PEUGEOT</a></li>
+        <li><a href="renault.html">RENAULT</a></li>
+        <li><a href="toyota.html">TOYOTA</a></li>
+      </ul>
+    </nav>
+  </header>
 
-  <div class="galeria-marcas">
-    <div class="tarjeta-marca">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Spark_plug_1.jpg" alt="Bujía Chevrolet Corsa">
-      <div style="padding: 15px;">
-        <h3>Bujía NGK - Corsa / Classic</h3>
-        <p>Alta durabilidad y rendimiento del motor optimizado.</p>
-        <p><strong>Modelos compatibles:</strong> Corsa 2000-2016, Classic 2005-2016</p>
-      </div>
-    </div>
-    <div class="tarjeta-marca">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Automotive_air_filter.jpg" alt="Filtro de aire Chevrolet Onix">
-      <div style="padding: 15px;">
-        <h3>Filtro de aire - Onix / Prisma</h3>
-        <p>Protege el motor de impurezas, mejora la eficiencia del combustible.</p>
-        <p><strong>Modelos compatibles:</strong> Onix 2013-2023, Prisma 2013-2022</p>
-      </div>
-    </div>
-    <div class="tarjeta-marca">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Oil_filter.jpg" alt="Filtro de aceite Chevrolet S10">
-      <div style="padding: 15px;">
-        <h3>Filtro de aceite - S10 / Trailblazer</h3>
-        <p>Garantiza la pureza del aceite y prolonga la vida útil del motor.</p>
-        <p><strong>Modelos compatibles:</strong> S10 2012-2023, Trailblazer 2012-2023</p>
-      </div>
-    </div>
-    <div class="tarjeta-marca">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Brake_pads_on_white_background.jpg" alt="Pastillas de freno Chevrolet Cruze">
-      <div style="padding: 15px;">
-        <h3>Pastillas de freno - Cruze / Spin</h3>
-        <p>Composición cerámica, bajo ruido, excelente frenado.</p>
-        <p><strong>Modelos compatibles:</strong> Cruze 2008-2020, Spin 2012-2020</p>
-      </div>
-    </div>
-    <div class="tarjeta-marca">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Car_battery.jpg" alt="Batería Chevrolet Tracker">
-      <div style="padding: 15px;">
-        <h3>Batería 12V - Tracker / Captiva</h3>
-        <p>Libre de mantenimiento, alto rendimiento de arranque.</p>
-        <p><strong>Modelos compatibles:</strong> Tracker 2013-2023, Captiva 2008-2018</p>
-      </div>
-    </div>
-  </div>
-</section>
+  <section class="seccion" id="chevrolet">
+    <h2>Autopartes Chevrolet</h2>
+    <p>Repuestos originales y alternativos para vehículos Chevrolet. Calidad y garantía.</p>
 
-<footer>
-  <p>© 2025 Pancho Autopartes | Fábrica y distribución de autopartes en Argentina</p>
-</footer>
+    <div class="galeria-marcas">
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Filtro de Aire – Chevrolet Corsa</h3>
+        <p>Mayor flujo y durabilidad para motor Corsa.</p>
+        <p><strong>Modelos compatibles:</strong> Corsa 1.4 / 1.6 (1998-2012)</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Filtro de Aceite  Chevrolet Cruze</h3>
+        <p>Filtro de alta retención para motores nafta.</p>
+        <p><strong>Modelos compatibles:</strong> Cruze 1.8 / 1.4 Turbo (2012-2020)</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Pastillas de Freno Onix / Prisma</h3>
+        <p>Pastillas delanteras originales, baja generación de polvo.</p>
+        <p><strong>Modelos compatibles:</strong> Onix 2013-2022, Prisma 2014-2022</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Radiador  Chevrolet S10</h3>
+        <p>Radiador reforzado para camionetas.</p>
+        <p><strong>Modelos compatibles:</strong> S10 2013-2023</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Amortiguador Delantero - Chevrolet Agile</h3>
+        <p>Amortiguador de calidad para uso urbano.</p>
+        <p><strong>Modelos compatibles:</strong> Agile 2009-2016</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Alternador  Chevrolet Cruze</h3>
+        <p>Alternador de carga estable para sistemas eléctricos exigentes.</p>
+        <p><strong>Modelos compatibles:</strong> Cruze 1.4 / 1.8</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Bujías NGK / Denso</h3>
+        <p>Bujías de alto desempeño para motores Chevrolet.</p>
+        <p><strong>Modelos compatibles:</strong> Cruze, Onix, Prisma</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Sensor MAP - Chevrolet Tracker</h3>
+        <p>Sensor preciso para medir la presión de admisión.</p>
+        <p><strong>Modelos compatibles:</strong> Tracker 1.8 / 2.0</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Kit de Embrague -Chevrolet Cruze</h3>
+        <p>Kit completo LUK para una mejor transmisión.</p>
+        <p><strong>Modelos compatibles:</strong> Cruze 1.8 / 1.4 Turbo</p>
+      </div>
+
+      <div class="tarjeta-marca" style="padding: 15px;">
+        <h3>Batería 12V  Chevrolet Spark / Agile</h3>
+        <p>Batería libre de mantenimiento con buena capacidad de arranque.</p>
+        <p><strong>Modelos compatibles:</strong> Spark 2010-2022, Agile 2009-2016</p>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Pancho Autopartes | Fábrica y distribución de autopartes en Argentina</p>
+  </footer>
 
 </body>
 </html>
