@@ -1,0 +1,119 @@
+﻿Objetivo de la encuesta: 
+-Obtener un panorama real de la maquinaria
+-Detectar todo tipo de fallas
+-Obtener información la diseñar mejoras
+
+
+Nombre:
+Apellido:
+Edad:
+
+
+Datos generales:
+
+
+1- Su antigüedad en la empresa:
+1. Menos de un  año
+2. Entre 1 y 2 años
+3. Entre 3 y 5 años
+4. Más de 5 años
+
+
+2- Horario de trabajo:
+1. Mañana
+2. Tarde
+3. Noche
+
+
+Funciones y organización:
+
+
+1-¿Con qué dispositivo realiza su trabajo principal?
+1. Pc
+2. Laptop
+3. Tablet
+4. Celular
+5. Otro
+
+
+2-¿Cómo recibe las solicitudes de mantenimiento?
+1. Llamada
+2. Mensaje
+3. Papel
+
+
+3-¿Considera que la información recibida en las solicitudes es suficiente y clara?
+1. Si
+2. Podría ser más clara
+3. No
+
+
+Estado de las máquinas:
+
+
+1-¿Cómo evalúa el estado general de las máquinas actualmente?
+1. Muy buen estado
+2. Buen estado
+3. Aceptable 
+4. Mal estado
+
+
+2- ¿Con qué frecuencia ocurren fallas en la maquinaria?
+1. A diario
+2. Semanalmente
+3. Mensualmente
+4. Casi nunca
+
+
+3-¿Qué tipo de fallas ocurren con más frecuencia?
+
+
+4-¿Las máquinas reciben su mantenimiento preventivo en tiempo y forma?
+
+
+Herramientas y recursos:
+
+
+1- ¿Qué herramientas utiliza para detectar las fallas?
+
+
+2- Evalúe las calidad y estado de las herramientas de las que dispone:
+1. Excelentes condiciones
+2. Muy buenas condiciones 
+3. Regulares condiciones
+4. Malas condiciones
+
+
+3- ¿Qué máquinas requieren una intervención o un reemplazo urgente?
+
+
+Comunicación y seguridad:
+
+
+1- ¿Cómo cree que es la respuesta de los operarios o supervisores cuando solicita detener el funcionamiento de una máquina para intervenirla?
+1. Rápido
+2. Regular
+3. Lenta
+
+
+2-¿Con qué frecuencia detecta riesgos de seguridad en su área?
+1. Frecuentemente 
+2. Rara vez
+3. Nunca
+
+
+3-¿Qué tipo de riesgos son los más comunes?
+
+Sistemas y mejoras:
+
+
+1-¿Registra las tareas de mantenimiento?
+1. En papel
+2. En un excel
+3. En algún otro sistema 
+4. No
+
+
+2-¿Qué mejoras considera prioritarias para optimizar el área de mantenimiento? 
+
+3-¿Desea agregar algún comentario adicional o mencionar un problema que no fue consultado?
