@@ -18,5 +18,6 @@ Hasta el momento tenemos realizado lo siguiente:
 ¿Qué se va a a hacer?
 Hoy empezaremos con el código java de nuestro diagrama UML. Luego, continuaremos con la colocación de ip en nuestra arquitectura de red y haremos los diagramas sobrantes que seria el CPM y secuencia.
 ¿Cómo se va a hacer?
-Para el código Java se usará Netbeans, arquitectura de red con Packet Tracer y los diagramas con draw.io.
+Para el código Java se usará SpringTool, arquitectura de red con Packet Tracer y los diagramas con draw.io.
+
 
