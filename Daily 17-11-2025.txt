@@ -1,0 +1,20 @@
+17-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Extensión de caso de uso.
+- Plano 2D.
+- Modelo 3D.
+- Base de datos.
+- Stored procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+¿Qué se va a a hacer?
+Hoy empezaremos con el código java de nuestro diagrama UML. Luego, continuaremos con la colocación de ip en nuestra arquitectura de red y haremos los diagramas sobrantes que seria el CPM y secuencia.
+¿Cómo se va a hacer?
+Para el código Java se usará Netbeans, arquitectura de red con Packet Tracer y los diagramas con draw.io.
