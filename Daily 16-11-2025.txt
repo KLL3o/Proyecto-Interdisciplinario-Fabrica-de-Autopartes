@@ -4,6 +4,7 @@ Hasta el momento tenemos realizado lo siguiente:
 - Diagrama DER.
 - Diagrama UML.
 - Diagrama caso de uso.
+- Diagrama gantt. 
 - Extensión de caso de uso.
 - Habitaciones en 2D.
 - Modelo 3D.
@@ -17,4 +18,5 @@ Hasta el momento tenemos realizado lo siguiente:
 ¿Qué se va a a hacer?
 Se tratará de finalizar la página para la presentación del proyecto que es el lunes.
 ¿Cómo se va a hacer?
+
 Se utilizará Visual studio code para poner a prueba el código y mejorar la parte visual.
