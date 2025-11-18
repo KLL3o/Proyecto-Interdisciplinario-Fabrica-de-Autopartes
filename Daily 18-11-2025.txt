@@ -1,0 +1,25 @@
+17-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Diagrama Gantt
+- Extensión de caso de uso.
+- Plano 2D.
+- Modelo 3D.
+- Base de datos.
+- Stored procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+- prototipo / front end.
+- Backend
+¿Qué se va a a hacer?
+Terminar con la corrección del diagrama DER y separar las habitaciones para la impresion del plano en 2D.
+¿Cómo se va a hacer?
+Utilizaremos draw.io para realizar las dos tareas de hoy.
+
+
