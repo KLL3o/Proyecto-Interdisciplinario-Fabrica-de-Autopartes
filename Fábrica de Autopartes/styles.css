@@ -258,3 +258,13 @@ footer {
     text-align: center;
   }
 }
+/* fondo */
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0229/0839/articles/1-venta-autopartes-ecommerce.jpg?v=1727292952&originalWidth=1848&originalHeight=782&width=1400");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
