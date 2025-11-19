@@ -1,0 +1,24 @@
+19-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Diagrama Gantt
+- Extensión de caso de uso.
+- Plano 2D.
+- Modelo 3D.
+- Base de datos.
+- Stored procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+- prototipo / front end.
+- Backend
+- Código java.
+¿Qué se va a a hacer?
+Se completará los diagramas que faltan (CPM y secuencia), haremos el cálculo de presupuesto detallado y el cálculo de cable.
+¿Cómo se va a hacer?
+Utilizaremos draw.io para realizar los diagramas y en un documento haremos los cálculos de presupuestos.
