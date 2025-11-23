@@ -1,0 +1,25 @@
+19-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Diagrama Gantt
+- Extensión de caso de uso.
+- Plano 2D.
+- Modelo 3D.
+- Base de datos.
+- Stored procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+- prototipo / front end.
+- Backend
+- Código java.
+- Diagrama CPM
+¿Qué se va a a hacer?
+Se tratara de empezar y terminar con las APIs.
+¿Cómo se va a hacer?
+Para realizar las APIs vamos a utilizar Spring Tools Suite 4.
