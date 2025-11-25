@@ -1,0 +1,26 @@
+25-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Diagrama Gantt
+- Extensión de caso de uso.
+- Plano 2D.
+- Modelo 3D.
+- Base de datos.
+- Stored procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+- prototipo / front end.
+- Backend
+- Código java.
+- Diagrama CPM
+¿Qué se va a a hacer?
+Se continuará con el cálculo de presupuesto y la carpeta de campo.
+¿Cómo se va a hacer?
+El cálculo de presupuesto se hará utilizando la hoja de cálculo de Google, ya que tenemos que tener organizado todos los objetos de red utilizados excluyendo la infraestructura. 
+La carpeta de campo se hará en un bloc de notas, juntando todas las dailys hechas.
