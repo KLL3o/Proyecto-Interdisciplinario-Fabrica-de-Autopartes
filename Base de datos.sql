@@ -3,10 +3,6 @@ CREATE TABLE marca (
     nombre VARCHAR(100)
 );
 
-CREATE TABLE Operarios (
-    id INT PRIMARY KEY,
-    nombre VARCHAR(100)
-);
 
 CREATE TABLE Piezas (
     id INT PRIMARY KEY,
@@ -269,4 +265,5 @@ INSERT INTO Produccion (id, idMarca, tipoPieza, cantidad, fecha, turno, operario
 (56, 6, 56, 13, '2025-02-07', 'Tarde', 1),
 (57, 6, 57, 19, '2025-02-08', 'Noche', 1),
 (58, 6, 58, 8, '2025-02-08', 'Mañana', 1);
+
 
