@@ -1,0 +1,28 @@
+26-11-2025
+¿Que se hizo hasta el momento?
+Hasta el momento tenemos realizado lo siguiente:
+- Diagrama DER.
+- Diagrama UML.
+- Diagrama caso de uso.
+- Diagrama Gantt
+- Extensión de caso de uso.
+- Plano 2D.
+- Modelo 3D.
+- Base de datos.
+- Stored procedure.
+- Triggers.
+- Encuenta a operarios.
+- Encuenta a supervisores.
+- Encuesta a personal de logistica.
+- Subneteo.
+- prototipo / front end.
+- Backend
+- Código java.
+- Diagrama CPM
+¿Qué se va a a hacer?
+Hoy se terminará con todo lo que nos falta, que seria cálculo de presupuesto y cable, manual de usuario y diagrama de secuencia.
+¿Cómo se va a hacer?
+El cálculo de presupuesto se seguirá utilizando la hoja de cálculo de Google, ya que tenemos que tener organizado todos los objetos de red utilizados excluyendo la infraestructura. 
+Para el cableado se usará un documento y viendo el modelo 3D hecho, ya que tenemos el cable canal puesto ahi.
+Manual de usuario se tomará de guía un archivo que nos mandó una profesora anteriormente y nuesto prototipado.
+Por último, diagrama de secuencia se hará con draw.io.
