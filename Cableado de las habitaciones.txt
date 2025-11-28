@@ -1,0 +1,24 @@
+﻿Habitación 1 : 77
+Habitación 2 : 52,5
+Habitación 3 : 46,5
+Habitación 4 : 79
+Habitación 5 : 77 
+Habitación 6 : 75
+Habitación 7 : 65
+Habitación 8 : 105,5
+Habitación 9 : 96 
+Habitación 10 : 127
+Habitación 11 : 120,5
+Habitación 12 : 101,5
+Habitación 13 : 158,5
+Habitación 14 : 92,5
+Habitación 15: 73,5
+Habitación 16 : 126
+Habitación 17 : 61
+Habitación 18 : 151,50 
+Habitación 19 : 105,5 
+Habitación 20 : 85,5
+Habitación de sistemas: 15,5
+
+
+Presupuesto total del cabelado de la fabrica: 1892 metros

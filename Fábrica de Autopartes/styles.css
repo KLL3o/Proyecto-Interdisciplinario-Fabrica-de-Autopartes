@@ -1,0 +1,270 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    background: #f2f4f7;
+    color: #333;
+}
+
+
+
+.header-principal {
+    background: linear-gradient(135deg, #0d1d33, #1f3b57);
+    color: white;
+    text-align: center;
+    padding: 55px 20px;
+    box-shadow: 0 3px 18px rgba(0,0,0,0.3);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header-principal h1 {
+    font-size: 44px;
+    margin-bottom: 18px;
+}
+
+nav a {
+    color: white;
+    margin: 0 22px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.3s ease;
+}
+
+nav a:hover {
+    opacity: 0.7;
+    transform: translateY(-2px);
+}
+
+
+
+.seccion {
+    padding: 80px 70px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 38px;
+    color: #1f3b57;
+    margin-bottom: 40px;
+}
+
+/* nosotros */
+
+.bloque-nosotros {
+    background: white;
+    margin: 60px auto;
+    max-width: 1000px;
+    padding: 50px;
+    border-radius: 18px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+/* mracas */
+
+.galeria-marcas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 35px;
+}
+
+.tarjeta-marca {
+    background: #ffffff;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 5px 18px rgba(0,0,0,0.15);
+    transition: 0.3s ease;
+}
+
+.tarjeta-marca:hover {
+    transform: scale(1.05) translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.25);
+}
+
+.tarjeta-marca img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    background: #f7f7f7;
+}
+
+.tarjeta-marca h3 {
+    font-size: 22px;
+    margin: 15px 0;
+    color: #0d1d33;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 18px;
+    background: #1f3b57;
+    color: white;
+    padding: 10px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #2b5882;
+    transform: scale(1.07);
+}
+
+/*productos */
+
+.lista-servicios {
+    display: grid;
+    max-width: 1100px;
+    margin: auto;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 25px;
+}
+
+.servicio-item {
+    background: white;
+    padding: 25px;
+    border-radius: 14px;
+    font-size: 18px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+.servicio-item:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 22px rgba(0,0,0,0.2);
+}
+
+/* contacto */
+
+.redes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 40px;
+}
+
+.redes img {
+    width: 70px;
+    filter: drop-shadow(0 0 3px #222);
+    transition: 0.3s ease;
+}
+
+.redes img:hover {
+    transform: scale(1.12);
+    opacity: 0.9;
+}
+
+/* footer */
+
+footer {
+    background-color: #0d1d33;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 70px;
+    box-shadow: 0 -3px 15px rgba(0,0,0,0.3);
+}
+/*  header */
+
+.top-header {
+  background: #0f172a; 
+  color: white;
+  padding: 15px 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+/* Logo */
+.logo a {
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+/* Barra de búsqueda */
+.search-box input {
+  width: 330px;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+}
+
+/* contacto */
+.header-contact {
+  font-size: 14px;
+}
+
+
+.nav-categorias {
+  background: #1e293b;
+  border-top: 1px solid #334155;
+  border-bottom: 1px solid #334155;
+}
+
+.nav-categorias ul {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.nav-categorias ul li a {
+  display: block;
+  padding: 14px 20px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.nav-categorias ul li a:hover {
+  background: #475569;
+}
+
+
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .search-box input {
+    width: 100%;
+  }
+
+  .nav-categorias ul {
+    flex-wrap: wrap;
+  }
+
+  .nav-categorias ul li {
+    width: 50%;
+    text-align: center;
+  }
+}
+/* fondo */
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0229/0839/articles/1-venta-autopartes-ecommerce.jpg?v=1727292952&originalWidth=1848&originalHeight=782&width=1400");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
